@@ -42,9 +42,9 @@ npm run lint
 ```
 
 ## Tasks
-[x] init vue app with vuetify
-[] provide vuetify theme with all colors and custom properties
-[] add a couple of design elements for representating the theme
-[] add axios and theme endpoint
-[] provide vuex store for the theme
-[] implement the theme reload
+- [x] init vue app with vuetify
+- [ ] provide vuetify theme with all colors and custom properties
+- [ ] add a couple of design elements for representating the theme
+- [ ] add axios and theme endpoint
+- [ ] provide vuex store for the theme
+- [ ] implement the theme reload
